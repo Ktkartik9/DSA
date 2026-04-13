@@ -5,8 +5,8 @@
 
 
 # Logic: Use two pointers to traverse both lists
-        When a pointer reaches the end of one list, redirect it to the head of the other list
-        If there is an intersection, they will meet at the intersection node; otherwise, they will both reach None
+        """When a pointer reaches the end of one list, redirect it to the head of the other list
+        If there is an intersection, they will meet at the intersection node; otherwise, they will both reach None"""
 
 
 

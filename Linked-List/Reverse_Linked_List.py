@@ -4,9 +4,9 @@
 # We traverse the list and reverse the direction of each node’s next pointer.
 
 # Initialize three pointers:
-- prev = None
-- curr = head
-- nxt = None
+# - prev = None
+# - curr = head
+# - nxt = None
 
 
 

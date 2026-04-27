@@ -1,8 +1,9 @@
 # Linked List Cycle
 # Method: 
 
-# Logic: Use two pointers moving at different speeds. 
-  If there is a cycle,the fast pointer will eventually meet the slow pointer.
+# Logic: 
+ """Use two pointers moving at different speeds. 
+  If there is a cycle,the fast pointer will eventually meet the slow pointer"""
 
 
 

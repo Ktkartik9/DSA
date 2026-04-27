@@ -2,8 +2,9 @@
 
 # Method:
 
-# Logic: Use two pointers with a gap of 'n' nodes. 
-  When the fast pointer reaches the end, the slow pointer will be just before the node to be removed.
+# Logic: 
+"""Use two pointers with a gap of 'n' nodes. 
+  When the fast pointer reaches the end, the slow pointer will be just before the node to be removed"""
 
 
 

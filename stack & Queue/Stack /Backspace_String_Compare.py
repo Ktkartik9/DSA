@@ -7,8 +7,8 @@
 # Logic: Use two stacks to simulate the backspace character (#)
 
            #For each character
-               -push it onto the stack if it's not a '#'
-               -pop from the stack if it is a '#' and the stack is not empty
+               """push it onto the stack if it's not a '#'
+                  pop from the stack if it is a '#' and the stack is not empty"""
 
 class Solution:
     def backspaceCompare(self, s , t ):

@@ -3,9 +3,10 @@
 # Method: Stack 
 
 
-# Logic: Use a stack to track opening brackets
-  every closing bracket, check if it matches the top of the stack
-  If stack is empty at the end and all pairs matched, the string is valid
+# Logic: 
+"""Use a stack to track opening brackets
+   every closing bracket, check if it matches the top of the stack
+   If stack is empty at the end and all pairs matched, the string is valid"""
 
   class Solution:
     def isValid(self, s):

@@ -1,8 +1,8 @@
-Problem: Set Mismatch
+# Problem: Set Mismatch
 
-Method: Hash Set Tracking
+# Method: Hash Set Tracking
 
-Logic: 
+# Logic: 
        """The solution identifies a duplicated and a missing number in an array
           that should contain all integers from 1 to n a set s is used to track seen numbers
           if a number is already in the set during iteration it is identified as the duplicate
